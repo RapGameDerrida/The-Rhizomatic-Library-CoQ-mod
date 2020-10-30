@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<objects>
+  <object Name="SomeOddBookshelfMOD" Inherits="Bookshelf">
+    <part Name="Render" DisplayName="An Odd Bookshelf" Tile="Items/sw_bookshelf1.bmp" DetailColor="W" ColorString="&amp;w" />
+    <part Name="Inventory" />
+    <part Name="Container" />
+    <tag Name="NoSparkingQuest" />
+  </object>
+    <object Name="Unthinking1" Inherits="Book">
+    <part Name="Render" DisplayName="{{W|Discarded Notes on Unthinking Matter, pt. 1}}" ColorString="&amp;B" RenderString="=" RenderLayer="5" Tile="Items/sw_scroll2.bmp" TileColor="&amp;B" DetailColor="y" />
+    <part Name="Description" Short="Stained pages which appear to have been ripped from a journal" />
+    <part Name="Book" ID="Unthinking1" />
+    <part Name="Commerce" Value="10" />
+    <tag Name="ExcludeFromDynamicEncounters" Value="*noinherit" />
+  </object>
+	</object>
+</objects>

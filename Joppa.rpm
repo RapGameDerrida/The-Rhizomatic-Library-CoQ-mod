@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Map Load="Merge">
+	<cell	X="10"	Y="12">
+		<object
+      Name="Unthinking1">
+		</object>
+	</cell>
+    <cell	X="10"	Y="13">
+		<object
+      Name="SomeOddBookshelfMOD">
+		</object>
+	</cell>
+</Map>
