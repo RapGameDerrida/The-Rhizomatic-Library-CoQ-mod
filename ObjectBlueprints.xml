@@ -4,6 +4,11 @@
     <part Name="Render" DisplayName="An Odd Bookshelf" Tile="Items/sw_bookshelf1.bmp" DetailColor="W" ColorString="&amp;w" />
     <part Name="Inventory" />
     <part Name="Container" />
+    <inventoryobject Blueprint="Unthinking1" />
+    <inventoryobject Blueprint="Unthinking2" />
+    <inventoryobject Blueprint="Unthinking3" />
+    <inventoryobject Blueprint="ChromeTales" />
+    <inventoryobject Blueprint="OdeToSlog" />
     <tag Name="NoSparkingQuest" />
   </object>
     <object Name="Unthinking1" Inherits="Book">
@@ -13,5 +18,32 @@
     <part Name="Commerce" Value="10" />
     <tag Name="ExcludeFromDynamicEncounters" Value="*noinherit" />
   </object>
-	</object>
+    <object Name="Unthinking2" Inherits="Book">
+    <part Name="Render" DisplayName="{{W|Discarded Notes on Unthinking Matter, pt. 2}}" ColorString="&amp;B" RenderString="=" RenderLayer="5" Tile="Items/sw_scroll2.bmp" TileColor="&amp;B" DetailColor="y" />
+    <part Name="Description" Short="Stained pages which appear to have been ripped from a journal" />
+    <part Name="Book" ID="Unthinking2" />
+    <part Name="Commerce" Value="10" />
+    <tag Name="ExcludeFromDynamicEncounters" Value="*noinherit" />
+  </object>
+    <object Name="Unthinking3" Inherits="Book">
+    <part Name="Render" DisplayName="{{W|Discarded Notes on Unthinking Matter, pt. 3}}" ColorString="&amp;B" RenderString="=" RenderLayer="5" Tile="Items/sw_scroll2.bmp" TileColor="&amp;B" DetailColor="y" />
+    <part Name="Description" Short="Stained pages which appear to have been ripped from a journal" />
+    <part Name="Book" ID="Unthinking3" />
+    <part Name="Commerce" Value="10" />
+    <tag Name="ExcludeFromDynamicEncounters" Value="*noinherit" />
+  </object>
+   <object Name="ChromeTales" Inherits="Book">
+    <part Name="Render" DisplayName="{{W|Chrome Songs, Hollow Skulls: Of Gunpowder and Fools}}" ColorString="&amp;B" RenderString="=" RenderLayer="5" Tile="Items/sw_scroll2.bmp" TileColor="&amp;B" DetailColor="y" />
+    <part Name="Description" Short="Stained pages which appear to have been ripped from a journal" />
+    <part Name="Book" ID="ChromeTales" />
+    <part Name="Commerce" Value="10" />
+    <tag Name="ExcludeFromDynamicEncounters" Value="*noinherit" />
+  </object>
+   <object Name="OdeToSlog" Inherits="Book">
+    <part Name="Render" DisplayName="{{W|An Ode To Slog}}" ColorString="&amp;B" RenderString="=" RenderLayer="5" Tile="Items/sw_scroll2.bmp" TileColor="&amp;B" DetailColor="y" />
+    <part Name="Description" Short="Stained pages which appear to have been ripped from a journal" />
+    <part Name="Book" ID="OneToSlog" />
+    <part Name="Commerce" Value="10" />
+    <tag Name="ExcludeFromDynamicEncounters" Value="*noinherit" />
+  </object>
 </objects>

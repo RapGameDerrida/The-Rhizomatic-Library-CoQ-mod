@@ -49,10 +49,15 @@
     </page>
   </book>
 
-  <book ID="Chrometales" Title="{{W|Discarded Notes on Unthinking Matter, pt. 3}}" Format="Auto" Margins="1,2,2,2" Load="Merge">
-    <page>
-
-
+  <book ID="Chrometales" Title="{{W|Chrome Songs, Hollow Skulls: Of Gunpowder and Fools}}" Format="Auto" Margins="1,2,2,2" Load="Merge">
+    <page> No
     </page>
   </book>
+
+  <book ID="OdeToSlog" Title="{{W|An Ode to Slog}}" Format="Auto" Margins="1,2,2,2" Load="Merge">
+    <page>
+  No
+    </page>
+  </book>
+  
   </books>
