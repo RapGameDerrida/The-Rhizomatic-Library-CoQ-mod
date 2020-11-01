@@ -34,15 +34,15 @@
   </object>
    <object Name="ChromeTales" Inherits="Book">
     <part Name="Render" DisplayName="{{W|Chrome Songs, Hollow Skulls: Of Gunpowder and Fools}}" ColorString="&amp;B" RenderString="=" RenderLayer="5" Tile="Items/sw_scroll2.bmp" TileColor="&amp;B" DetailColor="y" />
-    <part Name="Description" Short="Stained pages which appear to have been ripped from a journal" />
+    <part Name="Description" Short="A book of inferior quality. The pages are strangely pulpous." />
     <part Name="Book" ID="ChromeTales" />
     <part Name="Commerce" Value="10" />
     <tag Name="ExcludeFromDynamicEncounters" Value="*noinherit" />
   </object>
    <object Name="OdeToSlog" Inherits="Book">
     <part Name="Render" DisplayName="{{W|An Ode To Slog}}" ColorString="&amp;B" RenderString="=" RenderLayer="5" Tile="Items/sw_scroll2.bmp" TileColor="&amp;B" DetailColor="y" />
-    <part Name="Description" Short="Stained pages which appear to have been ripped from a journal" />
-    <part Name="Book" ID="OneToSlog" />
+    <part Name="Description" Short="A slime-covered scroll, tied with a sinewy string." />
+    <part Name="Book" ID="OdeToSlog" />
     <part Name="Commerce" Value="10" />
     <tag Name="ExcludeFromDynamicEncounters" Value="*noinherit" />
   </object>
