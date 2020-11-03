@@ -1,11 +1,12 @@
 ***The Rhizomatic Library by RapGameDerrida is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0*** 
 
-# The Rhizomatic Library
-### A Caves of Qud mod
+# The Rhizomatic Library (a Caves of Qud mod)
+
+# Description
 
 The Rhizomatic Library is a periodically updated Caves of Qud mod which adds books, scrolls, parchments, and other readable oddities to the game world.
 
-The books, for the time being, can be found in Joppa. Look for an odd bookshelf. They will eventually be moved to the Six Day Stilt.
+The books, for the time being, **can be found in Joppa. Look for an odd bookshelf.** They will eventually be moved to the Six Day Stilt.
 
 # Installation
 
