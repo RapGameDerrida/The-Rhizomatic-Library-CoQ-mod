@@ -27,3 +27,11 @@ Download the folder called "The Rhizomatic Library", and add it to your Caves of
 **0.1**
 
 - Initial release, containing five books.
+
+# Licenses, forking, and other bothersome matters
+
+Since this is my first public mod, and given that it is primarily contains prose rather than lines of code, **the mod is licensed under a Creative Commons license, in this case CC BY-NC-SA 4.0.** To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0
+
+Clearly put, commercial use is not allowed. The license is primarily there to prevent unknown entities from grabbing the text and monetizing it without permission. **If you're a Qud modder, please, feel free to remix, tweak, clone, edit, etc.**
+
+I am open to suggestions re: best license to use in this scenario. DMs open on Twitter.
