@@ -2,6 +2,11 @@
 
 # The Rhizomatic Library (a Caves of Qud mod)
 
+- [Description](#description)
+- [Installation](#installation)
+- [Changelog](#changelog)
+- [License and other bothersome matters](#license-and-other-bothersome-matters)
+
 # Description
 
 The Rhizomatic Library is a periodically updated Caves of Qud mod which adds books, scrolls, parchments, and other readable oddities to the game world.
