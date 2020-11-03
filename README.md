@@ -28,11 +28,10 @@ Download the folder called "The Rhizomatic Library", and add it to your Caves of
 
 - Initial release, containing five books.
 
-# Licenses, forking, and other bothersome matters
+# License and other bothersome matters
 
-This mod/code/work is protected by the [URL=http://creativecommons.org/licenses/by-nc-nd/4.0/legalcode]Attribution-NonCommercial-NoDerivatives 4.0 International Creative Commons License.
-[IMG]https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png[/IMG][/URL]
+!(https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png)
 
-Since this is my first public mod, and given that it primarily contains prose rather than lines of code, **the mod is released under a Creative Commons license. In this case, CC BY-NC-SA 4.0.** To view a copy, visit https://creativecommons.org/licenses/by-nc-sa/4.0 
+Since this is my first public mod, and given that it primarily contains prose rather than lines of code, **the mod is released under a [Creative Commons license. In this case, CC BY-NC-SA 4.0.](https://creativecommons.org/licenses/by-nc-sa/4.0)**
 
 Clearly put, **commercial use is not allowed**. Forking, remixing, editing, etc. is more than fine. This distinction seems crucial as I intend to open up the mod to contributors down the road, and want to ensure their fiction writing (as well as my own) is protected. I am 100% open to suggestions re: best license to use in this scenario, particularly from experienced modders. DMs open on Twitter.
