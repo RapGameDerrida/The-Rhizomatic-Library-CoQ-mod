@@ -112,7 +112,7 @@ Randomness better than pattern to describe the ensuing shell-shocked hours.
 
 --
 
-Later, much later, scrivened yet unhappened: they will return to the spot. A promise to themselves, and perhaps to countless others. They will return and undo their disturbance. Let there be no ambiguity as to what it will be: not kindness, not respect, not ritual, not an apology, but survival of a different shade. Because it is all survival, regardless of symbolic formations--especially for those who understand what surviving entails.
+Later, much later, scrivened yet unhappened: they will return to the spot. A promise to themselves, and perhaps to countless others. They will return and undo their disturbance. Let there be no ambiguity as to what it will be: not kindness, not respect, not ritual, not an apology, but survival of a different shade. Because it is all survival, regardless of symbolic formations, for those who understand what surviving entails--and the chasms that separate dirk urges from dirges.
 
 
 # An Ode to Slog
