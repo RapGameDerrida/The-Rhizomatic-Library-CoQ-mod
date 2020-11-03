@@ -8,7 +8,7 @@ The wall has not tried to escape. The animator, once activated, latched on to co
 
 What does one do with a screaming wall?
 
-# Discarded Notes on Unthinking Matter, pt. 1
+# Discarded Notes on Unthinking Matter, pt. 2
 
 How I wish to behold the sentient tree-city of Chavvah! The very thought invokes a series of sensical bonds. What is a city but a network? What are trees but assemblages? What is a sentient tree-city but moving parts performing as one? I am mindful of imperfections and discords, of course. Cities and forests are cacophonous, chaotic, wavering multiplicities forever on the brink of collapse. Surely, they disagree on much. And yet, *yet*, they hold together enough to warrant their names. This holding-together, regardless of tensions spawned by coalesced enactments of heterogenous nodes, would prove a welcome respite. After all, the sentient tree-city chooses to be a sentient tree-city. It upholds itself.
 
@@ -54,7 +54,7 @@ They were looking for trouble, too.
 
 So they left the forests and the rivers and the empty home till there was nothing but the taste of ash and sand filling their mouths, separate buds tasting different grits. They walked for seven days and six nights, only ducking into makeshift alcoves and ruins in deference to the future. I am not resting because I am tired, they told themselves, but I will be soon, and how foolish must I be to forgo that which I may miss once impossible to re-have?
 
-See them now, huddled in a another's cloak though the other's smell is long gone, gazing at a tar-sludge sky unmoved by dead blinking lights. Such a small figure, they--carnivorous nights acknowledge zero legends. Insects and people and giants squashed hierarchically by unmapped firmaments carouseling above. Still, traces of defiant despair emerge post-zoom. See them now: dermal plating from oblique girdle to maxilla, machine vision canvassing the non-emptiness, fullerite-supported carbide in lieu of flesh-wrapped bones, port-filled torso fused to threaded motion machinery engines, homespun gun rack (four pistols, two rifles, lover's sword) a purposeful burden, schemasofted data bits adrenaline-ensensed crowding stretched pathways and begging to be enacted, matter recompositer replacing dead person's switch, anchor spikes against brute-forcing hulks, thermal sensors wired to gel-bloated sacks for flame-singers, volcanic stew kept aglow in jittery phials, and glove-tucked vibro dagger awaiting charge before the blueprinted denouement.
+See them now, huddled in a another's cloak though the other's smell is long gone, gazing at a tar-sludge sky unmoved by dead blinking lights. Such a small figure, they--carnivorous nights acknowledge zero legends. Insects and people and giants squashed hierarchically by unmapped firmaments carouseling above. Still, traces of defiant despair emerge post-zoom. See them now: dermal plating from oblique girdle to maxilla, machine vision canvassing the non-emptiness, fullerite-supported carbide in lieu of flesh-wrapped bones, port-filled torso fused to threaded motion machinery engines, homespun gun rack (four pistols, two rifles, most cherished sword) a purposeful burden, schemasofted data bits adrenaline-ensensed crowding stretched pathways and begging to be enacted, matter recompositer replacing dead person's switch, anchor spikes against brute-forcing hulks, thermal sensors wired to gel-bloated sacks for flame-singers, volcanic stew kept aglow in jittery phials, and glove-tucked vibro dagger awaiting charge before the blueprinted denouement.
 
 Always strapped for death, but never their own--hoplomachic living. Perhaps the morning shall prove them wrong, they think as they summon a flawlessly attuned melatonin overflow.
 
@@ -112,7 +112,7 @@ Randomness better than pattern to describe the ensuing shell-shocked hours.
 
 --
 
-Later, much later, scrivened yet unhappened: they will return to the spot. A promise to themselves, and perhaps to countless others. They will return and undo their disturbance. Let there be no ambiguity as to what it will be: not kindness, not respect, not ritual, not an apology, but survival of a different shade. Because it is all survival, regardless of symbolic formations--especially for those who understand what surviving entails.
+Later, much later, scrivened yet unhappened: they will return to the spot. A promise to themselves, and perhaps to countless others. They will return and undo their disturbance. Let there be no ambiguity as to what it will be: not kindness, not respect, not ritual, not an apology, but survival of a different shade. Because it is all survival, regardless of symbolic formations, for those who understand what surviving entails--and the chasms that separate dirk urges from dirges.
 
 
 # An Ode to Slog
