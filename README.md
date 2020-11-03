@@ -30,10 +30,6 @@ Download the folder called "The Rhizomatic Library", and add it to your Caves of
 
 # Licenses, forking, and other bothersome matters
 
-Since this is my first public mod, and given that it primarily contains prose rather than lines of code, **the mod is released under a Creative Commons license. In this case, CC BY-NC-SA 4.0.** To view a copy, visit https://creativecommons.org/licenses/by-nc-sa/4.0
+Since this is my first public mod, and given that it primarily contains prose rather than lines of code, **the mod is released under a Creative Commons license. In this case, CC BY-NC-SA 4.0.** To view a copy, visit https://creativecommons.org/licenses/by-nc-sa/4.0 
 
-Clearly put, **commercial use is not allowed**. The license is primarily there to prevent unknown entities from grabbing the text and monetizing it without permission. This seems  crucial as I intend to open up the mod to contributors down the road, and want to ensure their fiction work is protected. 
-
-**If you're a Qud modder, please, feel free to remix, tweak, clone, edit, etc.**
-
-I am 100% open to suggestions re: best license to use in this scenario, particularly from experienced modders. DMs open on Twitter.
+Clearly put, **commercial use is not allowed**. Forking, remixing, editing, etc. is more than fine. This distinction seems crucial as I intend to open up the mod to contributors down the road, and want to ensure their fiction writing (as well as my own) is protected. I am 100% open to suggestions re: best license to use in this scenario, particularly from experienced modders. DMs open on Twitter.
