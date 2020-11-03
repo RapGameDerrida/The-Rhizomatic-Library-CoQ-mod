@@ -1,4 +1,4 @@
-***The Rhizomatic Library by RapGameDerrida is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0*** 
+![CC license details](https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png "LCC BY-NC-SA 4.0")
 
 # The Rhizomatic Library (a Caves of Qud mod)
 
@@ -29,8 +29,6 @@ Download the folder called "The Rhizomatic Library", and add it to your Caves of
 - Initial release, containing five books.
 
 # License and other bothersome matters
-
-![CC license details](https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png "LCC BY-NC-SA 4.0")
 
 Since this is my first public mod, and given that it primarily contains prose rather than lines of code, **the mod is released under a [Creative Commons license. In this case, CC BY-NC-SA 4.0.](https://creativecommons.org/licenses/by-nc-sa/4.0)**
 
