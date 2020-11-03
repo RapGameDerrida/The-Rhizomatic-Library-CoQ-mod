@@ -10,7 +10,7 @@ The books, for the time being, **can be found in Joppa. Look for an odd bookshel
 
 # Installation
 
-**Note: the texts can be read without Caves of Qud. Navigate to the "Plain text books" folder. The .md file should be readable in most browsers, or can be opened using a plain text or Markdown editor.
+**Note: the texts can be read without Caves of Qud. Navigate to the "Plain text books" folder. The .md file should be readable in most browsers, or can be opened using a plain text or Markdown editor.**
 
 Download the folder called "The Rhizomatic Library", and add it to your Caves of Qud "Mods" folder. The Mods folder's location depends on your operating system and may need to be created if it doesn't already exist.
 
