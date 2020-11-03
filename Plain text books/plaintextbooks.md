@@ -8,7 +8,7 @@ The wall has not tried to escape. The animator, once activated, latched on to co
 
 What does one do with a screaming wall?
 
-# Discarded Notes on Unthinking Matter, pt. 1
+# Discarded Notes on Unthinking Matter, pt. 2
 
 How I wish to behold the sentient tree-city of Chavvah! The very thought invokes a series of sensical bonds. What is a city but a network? What are trees but assemblages? What is a sentient tree-city but moving parts performing as one? I am mindful of imperfections and discords, of course. Cities and forests are cacophonous, chaotic, wavering multiplicities forever on the brink of collapse. Surely, they disagree on much. And yet, *yet*, they hold together enough to warrant their names. This holding-together, regardless of tensions spawned by coalesced enactments of heterogenous nodes, would prove a welcome respite. After all, the sentient tree-city chooses to be a sentient tree-city. It upholds itself.
 
