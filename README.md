@@ -30,7 +30,7 @@ Download the folder called "The Rhizomatic Library", and add it to your Caves of
 
 # License and other bothersome matters
 
-!(https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png)
+!(https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png "LCC BY-NC-SA 4.0")
 
 Since this is my first public mod, and given that it primarily contains prose rather than lines of code, **the mod is released under a [Creative Commons license. In this case, CC BY-NC-SA 4.0.](https://creativecommons.org/licenses/by-nc-sa/4.0)**
 
