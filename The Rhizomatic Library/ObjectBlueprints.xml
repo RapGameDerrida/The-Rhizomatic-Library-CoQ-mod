@@ -9,6 +9,7 @@
     <inventoryobject Blueprint="Unthinking3" />
     <inventoryobject Blueprint="ChromeTales" />
     <inventoryobject Blueprint="OdeToSlog" />
+    <inventoryobject Blueprint="CelestialSieging" />
     <tag Name="NoSparkingQuest" />
   </object>
     <object Name="Unthinking1" Inherits="Book">
@@ -43,6 +44,13 @@
     <part Name="Render" DisplayName="{{W|An Ode To Slog}}" ColorString="&amp;B" RenderString="=" RenderLayer="5" Tile="Items/sw_scroll2.bmp" TileColor="&amp;B" DetailColor="y" />
     <part Name="Description" Short="A slime-covered scroll, tied with a sinewy string." />
     <part Name="Book" ID="OdeToSlog" />
+    <part Name="Commerce" Value="10" />
+    <tag Name="ExcludeFromDynamicEncounters" Value="*noinherit" />
+  </object>
+   <object Name="CelestialSieging" Inherits="Book">
+    <part Name="Render" DisplayName="{{W|Addressing Conflicts: An Unconventional Proposal}}" ColorString="&amp;B" RenderString="=" RenderLayer="5" Tile="Items/sw_scroll2.bmp" TileColor="&amp;B" DetailColor="y" />
+    <part Name="Description" Short="A letter. The ink occasionally glitters, reminding you of a star-filled night sky." />
+    <part Name="Book" ID="CelestialSieging" />
     <part Name="Commerce" Value="10" />
     <tag Name="ExcludeFromDynamicEncounters" Value="*noinherit" />
   </object>

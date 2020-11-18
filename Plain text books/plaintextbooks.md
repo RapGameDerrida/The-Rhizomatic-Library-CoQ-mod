@@ -116,7 +116,7 @@ Later, much later, scrivened yet unhappened: they will return to the spot. A pro
 
 
 # An Ode to Slog
-### I.
+### I. 
 Nighthowl a courtier,
 a tunnel of the vision took the knife,
 first care set by the builders,
@@ -239,3 +239,28 @@ a covenant in kind:
 time-lag this mishapen alba
 carve caesurae through I, a bl||inking en||voi||d
 and unbind aorta from inocciduous ague.
+
+# Addressing Conflicts Honorably: A Proposal
+
+Your Majesty,
+
+Enclosed, a few thoughts pertaining to our last exchange about the brewing tensions between several factions. These thoughts may seem preposterous, but I ask that you read them thoroughly and consider what such endeavors may resemble in practice.
+
+I believe a yearly competition between tribes may be best in order to resolve grudges, grievances, resentments, debts, and other forms of discords not easily addressable through current rulings. 
+
+As you know, such events once existed but have long lost their appeal. Indeed, with the technological marvels that surround us (many of them the result of your governance) how can ancient practices such as tug of war, ball games, or spear throwing be seen as worth engaging in? They may be respected as traditions--as one respects an out-of-touch elder--but they do not reflect the reality in which we are embedded, nor do they quell deep-seated feelings.
+
+What I propose embraces the cultural import of past traditions, yet modernizes these practices through the use of two technologies: geomagnetic disc launchers and flume-fliers.
+
+You may find yourself aghast at these lines, given that such apparatuses were designed with warfare in mind. To this potential reaction, I say: indeed, that is why they should be used. Certainly, they should be modified to prevent serious injuries or deaths. That is, unless the competitors unanimously agree that fatal exchanges are warranted, or unless Your Majesty sees strategic value in "matches of death".
+
+This competition, which I tentatively name "Celestial Siege", requires two teams. I leave the number of competitors to your discretion, but believe a total of thirty-two may be optimal. Each participant shall be given a geomagnetic disc launcher and flume-flier, as well as a custom-forged suit of mechanical armor matching their community's chosen aesthetic. Both teams shall begin the game in their respective "strongholds"--structures specifically built for the event. The goal of this competition is to retrieve an item from the opposing team's stronghold and to bring this item back "home". While open to other possibilities, here I would suggest a flag, a coat of arms, or any other heraldic symbol to which a faction may be attached. A team achieves victory by capturing the symbol ten times, or by holding the highest number of captures by game's end, or if the opposing team forfeits.
+
+I already see how vehicles may play a part, or why other armament types may be allowed to highlight a participant's skills and preferred forms of "sieging". Different rule sets may be implemented as well. Though I shudder at the notion, I suspect the aforementioned matches of death may become gruesomely popular with certain crowds.
+
+Rather than specifics, which shall come later, for the time being I invite Your Majesty to simply envision what these competitions would look like. Picture pride-seeking fighters soaring high above the dunes and hills of your dominium, the most talented mechanically-enhanced warriors disc-hitting their targets mid-air! Others, I am certain, will swiftly adapt to the subtleties of flume-flying, and use their devices to glide--for lack of a better word--along the terrain at dizzying speeds.
+
+I pray you will see my proposal as one worth pondering, rather than the foolish ramblings of an aging star-gazer.
+
+Your esteemed scholar of the Under Spheres,
+Liyana Osis
