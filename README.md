@@ -17,7 +17,7 @@ The books, for the time being, **can be found in Joppa. Look for an odd bookshel
 
 **Note: the texts can be read without Caves of Qud. Navigate to the "Plain text books" folder. The .md file should be readable in most browsers, or can be opened using a plain text or Markdown editor.**
 
-Download the folder called "The Rhizomatic Library", and add it to your Caves of Qud "Mods" folder. The Mods folder's location depends on your operating system and may need to be created if it doesn't already exist.
+Download the folder called "The Rhizomatic Library", and add it to your Caves of Qud "\Mods" folder. The folder's location depends on your operating system and may need to be created if it doesn't already exist.
 
 `Windows: C:\Users\USERNAMEHERE\AppData\LocalLow\Freehold Games\CavesOfQud\`
 
@@ -28,6 +28,11 @@ Download the folder called "The Rhizomatic Library", and add it to your Caves of
 **USERNAMEHERE** should be replaced by your user/account name.
 
 # Changelog
+
+**0.2**
+
+- Fixed typos and formatting issues. More to come.
+- Added one book, "Addressing Conflicts: An Unconventional Proposal"
 
 **0.1**
 
