@@ -27,17 +27,6 @@ Download the folder called "The Rhizomatic Library", and add it to your Caves of
 
 **USERNAMEHERE** should be replaced by your user/account name.
 
-# Changelog
-
-**0.2**
-
-- Fixed typos and formatting issues. More to come.
-- Added one book, "Addressing Conflicts: An Unconventional Proposal"
-
-**0.1**
-
-- Initial release, containing five books.
-
 # License and other bothersome matters
 
 Since this is my first public mod, and given that it primarily contains prose rather than lines of code, **the mod is released under a [Creative Commons license. In this case, CC BY-NC-SA 4.0.](https://creativecommons.org/licenses/by-nc-sa/4.0)**
