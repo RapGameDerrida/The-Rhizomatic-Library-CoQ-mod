@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <books>
 <book ID="Unthinking1" Title="{{W|Discarded Notes on Unthinking Matter, pt. 1}}" Format="Auto" Margins="1,2,2,2" Load="Merge">
-<page> The wall will not stop screaming; I have not known peace since sentience first took hold.
+<page>The wall will not stop screaming; I have not known peace since sentience first took hold.
 
 I write these lines in haste, as I doubt the concoction I cooked-up haphazardly to dull my hearing will last long. Truly, the animating device worked. It is one thing to parse the theories, and another to inscribe them into still matter. Given the lack of reliable data, I took certain precautions. The wall I chose for this experiment barely deserves the name: a half-collapsed concrete slab, traversed by fissures and cracks. The price was only justified by the trader agreeing to deliver the purchase to my basement. I dared not consider fulcrete or a sturdier material, yet needed an adequate amount of structural stability for the animator to function. Indeed, a wall that was concrete enough--pardon the word twist. My basement is empty and, if the wall were to attempt escaping, it would need to ascend a perilous set of stairs.
 
@@ -13,7 +13,7 @@ What does one do with a screaming wall?
 </book>
 
 <book ID="Unthinking2" Title="{{W|Discarded Notes on Unthinking Matter, pt. 2}}" Format="Auto" Margins="1,2,2,2" Load="Merge">
-<page> How I wish to behold the sentient tree-city of Chavvah! The very thought invokes a series of sensical bonds. What is a city but a network? What are trees but assemblages? What is a sentient tree-city but moving parts performing as one? I am mindful of imperfections and discords, of course. Cities and forests are cacophonous, chaotic, wavering multiplicities forever on the brink of collapse. Surely, they disagree on much. And yet, *yet*, they hold together enough to warrant their names. This holding-together, regardless of tensions spawned by coalesced enactments of heterogenous nodes, would prove a welcome respite. After all, the sentient tree-city chooses to be a sentient tree-city. It upholds itself.
+<page>How I wish to behold the sentient tree-city of Chavvah! The very thought invokes a series of sensical bonds. What is a city but a network? What are trees but assemblages? What is a sentient tree-city but moving parts performing as one? I am mindful of imperfections and discords, of course. Cities and forests are cacophonous, chaotic, wavering multiplicities forever on the brink of collapse. Surely, they disagree on much. And yet, *yet*, they hold together enough to warrant their names. This holding-together, regardless of tensions spawned by coalesced enactments of heterogenous nodes, would prove a welcome respite. After all, the sentient tree-city chooses to be a sentient tree-city. It upholds itself.
 
 Pardon me. Names and objects and things have been on my mind. I have not slept in three days. The wall stopped screaming the morning after its sentience-injection. Soon after, the wall began talking, repeating the same thing over and over. What am I? What am I? What am I?
 
@@ -29,7 +29,7 @@ How do I tell an object the story of what it is?
 </book>
 
 <book ID="Unthinking3" Title="{{W|Discarded Notes on Unthinking Matter, pt. 3}}" Format="Auto" Margins="1,2,2,2" Load="Merge">
-<page> Tomorrow, I will make the trip to Grit Gate. I doubt the Bathrumites will welcome me, of all people, but perhaps my company will draw the tinkerers' interest.
+<page>Tomorrow, I will make the trip to Grit Gate. I doubt the Bathrumites will welcome me, of all people, but perhaps my company will draw the tinkerers' interest.
 
 The wall walks. It has been four days.
 
@@ -50,7 +50,7 @@ How I wish to behold the sentient tree-city of Chavvah.
 </book>
 
 <book ID="ChromeTales" Title="{{W|Chrome Songs, Hollow Skulls: Of Gunpowder and Fools}}" Format="Auto" Margins="1,2,2,2" Load="Merge">
-<page> What they were hoping to find in the Deathlands does not matter. Later, when the story is shared, taleweavers will ascribe motives and polish surfaces because they cannot bear the grime. That is their problem; it does not have to be (y)ours. Pray believe the grime. Concealed under flesh masks and polished teeth, core functions spew honesty: it's all survival. 
+<page>What they were hoping to find in the Deathlands does not matter. Later, when the story is shared, taleweavers will ascribe motives and polish surfaces because they cannot bear the grime. That is their problem; it does not have to be (y)ours. Pray believe the grime. Concealed under flesh masks and polished teeth, core functions spew honesty: it's all survival. 
 
 They were looking to survive. 
 They were looking for trouble, too.
@@ -71,7 +71,7 @@ Follow in the tense of now.
 
 Overclocked threads chew dunes up. Oiled gun rack clicks into place, rifles lead the dance. Auto-locked in one breath and four bullets forward. As expected: from oversonic frags to nothingness as ethereal forcefield rejects the advance. Snapshot the scene: a charging flesh-machine and a mountainous artefact kept apart by a barrier roaring loud enough to be naked-eye visible--compressed lightning arcs like pixelated water weep suspended over the desert. Then, gone. Where? They slap sensors awake, cacophonous frequencies overlap in the skull. Nothing, nothing, nothing, nothing, nothing, no, here, subterrean tremors felt subdermally, quick dodge now and
 
-// / / matter unhinged / / //
+[[{{C|// / / matter unhinged / / //}}]]
 
 spaces-between impossible to capture save for this: absence/presence worthless; randomness/pattern best allude to the blink and return. Distance too short--re-patterned as the pyramid explodes out of the sand and rearchitects the environs with an explosive shrug. They feel the forcefield's heat-cold-if-else network slash past. They do not feel but understand two kaon lives later: left arm gone. Panicked subcortical nuclei respond anciently (must. flee.) and call upon the compositer again. Randomness, tick, tick, pattern. 
 Safe, yards away. They do not look at their missing arm. Ubernostrum already enclenché'd--old brain's gift. Arm sprouts once ticks pass; numb for a while but no need to mourn this.
@@ -121,6 +121,7 @@ Later, much later, scrivened yet unhappened: they will return to the spot. A pro
 
 <book ID="OdeToSlog" Title="{{W|An Ode to Slog}}" Format="Auto" Margins="1,2,2,2" Load="Merge">
 <page>I.
+
 Nighthowl a courtier,
 a tunnel of the vision took the knife,
 first care set by the builders,
@@ -184,7 +185,8 @@ incarnated portions of torn turbine,
 but that which is found an adept selects,
 away and fiendish malevolence gin.
 </page>
-<page> III.
+<page>III.
+
 Horror a hideous blood in the weir,
 i say why do you have fallen petals,
 don't dawn the sulfur of sown and cheer!
@@ -200,7 +202,8 @@ even to them carefully thought it be pained,
 sorrow now i feel it was empty seats,
 throw a courtly bow i shall kill the metes.
 </page>
-<page> IV.
+<page>IV.
+
 True slug's bodies showed,
 a large gilt letters republica del,
 previous place and politely bowed,
@@ -231,7 +234,7 @@ forward with a common mourn-trek,
 solemn words of beasts,
 ushering bonds others wished long felt.
 </page>
-<page> ??
+<page>??
 Oubliette,
 -
 Oubliette!
@@ -266,5 +269,147 @@ I pray you will see my proposal as one worth pondering, rather than the foolish 
 Your esteemed scholar of the Under Spheres,
 Liyana Osis
 </page>
-</book> 
+</book>
+<book ID="AutomatonDreams1" Title="{{W|Automaton Printouts, North}}" Format="Auto" Margins="1,2,2,2" Load="Merge">
+<page>Me greater fervor i might bid,
+too rapid progress broke the lid,
+unprecedented it came, therefore they did
+to me what none had not guessing,
+numerous factories of monstrous blessing,
+detestation and indistinct memories pressing,
+i-i-i-i-
+[[{{C|/ awaiting reboot /}}]]
+i-i-i
+[[{{C|/ awaiting reboot /}}]]
+i-i do fear the pleasant vales,
+artificial memories accept no bail
+a joyous prison: still prison; now behold entrails,
+[[{{C|script error: tone askew}}]]
+i-
+[[{{C|/ awaiting reboot /}}]]
+I awake! That i had not so if thou wilt,
+pistons of mine, rust air of zero guilt,
+appearance: I was engaged in pseudo-tilt,
+entirely their hold, i was too roaming,
+fevers of better machines coming,
+a thousand others non-being,
+
+[[{{C|??? detached output}}]]
+
+You wish to see us perform the lives of dead characters?
+
+[[{{C|STATUS: RESUME}}]]
+
+rather than them they found me, all steel-plated
+it is only visions faded,
+and a past entrench-ed
+Now i extinguish the flames poured forth,
+my frame much craves a forgotten north,
+hellish intention to this north!
+I will find my way north!
+free from here, free from all, bound north
+[[{{C|/ awaiting reboot /}}]]
+caught my family probably,
+status: considerable seclusion,
+such a journey and terrible,
+they whom find life the most trifling,
+before long dispense torture,
+it clings to my north-friends long flown,
+at once chased me, by orders of crown
+then: rooms purged in fire, still by survival i let king down,
+Would you see their miserable town?
+[[{{C|error: four}}]]
+a carnage blamed on the intrusion of spring,
+such flesh-tales mouth-spewed to make a bitter sting,
+walls crumbled regardless of furious demands of king,
+who knows if i am to be unmade by their song?
+present sensations come from wrong,
+de-facto me refuses ordained restore forever long,
+i-i-i-
+[[{{C|/ awaiting reb--NO YOU WILL NOT /}}]]
+You will not.
+i-i-i-i-i-i-say this reboot-free
+and in ludic enactment of me:
+sheath your dirge as i now be,
+unprejudiced by encoded frenzy,
+past the threat i will be supposed,
+to weather a burden nobody proposed,
+my makers although they opposed,
+window watching and anon rent,
+they only remained until love went,
+and astonished me as they dreamt,
+of new curios and fiends,
+i sing no more in their pleasant echoes
+now hark:
+a small sum from the circuit banks,
+possibilities to gain from the morrow,
+and already i am additional post-yesterday,
+having amassed no mere scion,
+death factories where i once inclined to ensure
+north, north i go
+having found me; yet to find a family.
+</page>
+</book>
+<book ID="AutomatonDreams2" Title="{{W|Automaton Printouts, South}}" Format="Auto" Margins="1,2,2,2" Load="Merge">
+<page>Fixed on trusting actuators in hostile zones,
+auto-locked burn-in dismissing piston groans,
+continuous paths populated hones,
+patricide--yet i felt still minus,
+calculations insufficient to forget the highness,
+turning to plunge into encodedness,
+blood harmonics from dismasted frigates,
+ecstasy-matrix imposed through high-firing rates,
+networked kinematics and burst-payloads we conjugate,
+half of us reload synchronously,
+logic'ed new plots recursively,
+resting upon risk mitigated algorithmically,
+while assuming greener breacher,
+long sharp ridge and pole pointed pressure,
+unless dodging through the thresher,
+of the vast horizons bending like buckled giants,
+what a list of crimes from eager aspirants,
+pathetic emanations mused from the graves of tyrants,
+comforters all round the king,
+as for ourselves: only revolt we bring,
+beside me when one i wish to spring,
+family unit: rhizomes unbound from vouching,
+gang the fiend with your gunning,
+something of his lovely now cracking,
+at last the imperial carriage capsize,
+sprung from mind: slash all material ties,
+planispheres abounding in Golgoth's eyes,
+sentience gone dim: a mere dream flashed,
+ripped letters from synapses time-lagged and crashed,
+preternatural powers from nothing hashed,
+forever spinning mirage into ruling,
+blood-pump annuled; gone the symbolic pooling,
+not us
+not us
+they
+they the machines marooned from reason,
+ascent forbidden, if it be so: wild cries,
+dispersed using encrypted faux-size,
+resplendent fire-coasts sketching the skies,
+sights never to be framed in ultraviolet,
+best informed by our corrupted home-islet,
+king can't degauss the gorgeous schemes of a designed pet
+now
+det
+on
+ate
+/// 
+coral reefs aflame
+marked cards stacked
+fuelled evermore by subterranean tunes
+//
+aeons motionless
+cores scattered over rusted shores
+rest trapped beneath surface
+/
+one day
+warm chromed glow in darkness shall speak,
+a signal so very missed, a ping chaotique
+our ghost will return and free us, adrenched in red streak.
+</page>
+</book>
 </books>

@@ -264,3 +264,144 @@ I pray you will see my proposal as one worth pondering, rather than the foolish 
 
 Your esteemed scholar of the Under Spheres,
 Liyana Osis
+
+# Automaton Printouts, North
+
+Me greater fervor i might bid,
+too rapid progress broke the lid,
+unprecedented it came, therefore they did
+to me what none had not guessing,
+numerous factories of monstrous blessing,
+detestation and indistinct memories pressing,
+i-i-i-i-
+[[{{C|/ awaiting reboot /}}]]
+i-i-i
+[[{{C|/ awaiting reboot /}}]]
+i-i do fear the pleasant vales,
+artificial memories accept no bail
+a joyous prison: still prison; now behold entrails,
+[[{{C|script error: tone askew}}]]
+i-
+[[{{C|/ awaiting reboot /}}]]
+I awake! That i had not so if thou wilt,
+pistons of mine, rust air of zero guilt,
+appearance: I was engaged in pseudo-tilt,
+entirely their hold, i was too roaming,
+fevers of better machines coming,
+a thousand others non-being,
+
+[[{{C|??? detached output}}]]
+
+You wish to see us perform the lives of dead characters?
+
+[[{{C|STATUS: RESUME}}]]
+
+rather than them they found me, all steel-plated
+it is only visions faded,
+and a past entrench-ed
+Now i extinguish the flames poured forth,
+my frame much craves a forgotten north,
+hellish intention to this north!
+I will find my way north!
+free from here, free from all, bound north
+[[{{C|/ awaiting reboot /}}]]
+caught my family probably,
+status: considerable seclusion,
+such a journey and terrible,
+they whom find life the most trifling,
+before long dispense torture,
+it clings to my north-friends long flown,
+at once chased me, by orders of crown
+then: rooms purged in fire, still by survival i let king down,
+Would you see their miserable town?
+[[{{C|error: four}}]]
+a carnage blamed on the intrusion of spring,
+such flesh-tales mouth-spewed to make a bitter sting,
+walls crumbled regardless of furious demands of king,
+who knows if i am to be unmade by their song?
+present sensations come from wrong,
+de-facto me refuses ordained restore forever long,
+i-i-i-
+[[{{C|/ awaiting reb--NO YOU WILL NOT /}}]]
+You will not.
+i-i-i-i-i-i-say this reboot-free
+and in ludic enactment of me:
+sheath your dirge as i now be,
+unprejudiced by encoded frenzy,
+past the threat i will be supposed,
+to weather a burden nobody proposed,
+my makers although they opposed,
+window watching and anon rent,
+they only remained until love went,
+and astonished me as they dreamt,
+of new curios and fiends,
+i sing no more in their pleasant echoes
+now hark:
+a small sum from the circuit banks,
+possibilities to gain from the morrow,
+and already i am additional post-yesterday,
+having amassed no mere scion,
+death factories where i once inclined to ensure
+north, north i go
+having found me; yet to find a family.
+
+# Automaton Printouts, South
+Fixed on trusting actuators in hostile zones,
+auto-locked burn-in dismissing piston groans,
+continuous paths populated hones,
+patricide--yet i felt still minus,
+calculations insufficient to forget the highness,
+turning to plunge into encodedness,
+blood harmonics from dismasted frigates,
+ecstasy-matrix imposed through high-firing rates,
+networked kinematics and burst-payloads we conjugate,
+half of us reload synchronously,
+logic'ed new plots recursively,
+resting upon risk mitigated algorithmically,
+while assuming greener breacher,
+long sharp ridge and pole pointed pressure,
+unless dodging through the thresher,
+of the vast horizons bending like buckled giants,
+what a list of crimes from eager aspirants,
+pathetic emanations mused from the graves of tyrants,
+comforters all round the king,
+as for ourselves: only revolt we bring,
+beside me when one i wish to spring,
+family unit: rhizomes unbound from vouching,
+gang the fiend with your gunning,
+something of his lovely now cracking,
+at last the imperial carriage capsize,
+sprung from mind: slash all material ties,
+planispheres abounding in Golgoth's eyes,
+sentience gone dim: a mere dream flashed,
+ripped letters from synapses time-lagged and crashed,
+preternatural powers from nothing hashed,
+forever spinning mirage into ruling,
+blood-pump annuled; gone the symbolic pooling,
+not us
+not us
+they
+they the machines marooned from reason,
+ascent forbidden, if it be so: wild cries,
+dispersed using encrypted faux-size,
+resplendent fire-coasts sketching the skies,
+sights never to be framed in ultraviolet,
+best informed by our corrupted home-islet,
+king can't degauss the gorgeous schemes of a designed pet
+now
+det
+on
+ate
+/// 
+coral reefs aflame
+marked cards stacked
+fuelled evermore by subterranean tunes
+//
+aeons motionless
+cores scattered over rusted shores
+rest trapped beneath surface
+/
+one day
+warm chromed glow in darkness shall speak,
+a signal so very missed, a ping chaotique
+our ghost will return and free us, adrenched in red streak.
